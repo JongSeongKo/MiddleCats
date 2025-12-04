@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="source/MiddleCats.IdentityServer/MiddleCats.IdentityServer.csproj" />
+  <Folder Name="/IdentityServer/">
+    <Project Path="source/MiddleCats.IdentityServer/MiddleCats.IdentityServer.csproj" />
+  </Folder>
 </Solution>
